@@ -21,4 +21,4 @@ Please fork....
 
 ### Copyright
 
-Bla
+Bla. All rigbts reserved.
