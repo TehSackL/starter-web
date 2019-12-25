@@ -2,6 +2,7 @@
 
 Test project to learn. Adding a line for rebasing example.
 Then more changes from myfeature branch.
+Updating for emergency fix after stashing.
 
 ## Introduction
 
