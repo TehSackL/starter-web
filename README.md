@@ -8,6 +8,10 @@ Test example text.
 
 ## Purpose
 
+This has a purpose.
+
 ## Deployment
+
+Just copy somewhere
 
 ## How To Contribute
