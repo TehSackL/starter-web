@@ -16,6 +16,8 @@ Just copy somewhere
 
 ## How To Contribute
 
+Please fork....
+
 ### Copyright
 
 Bla
