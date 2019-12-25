@@ -15,3 +15,7 @@ This has a purpose.
 Just copy somewhere
 
 ## How To Contribute
+
+### Copyright
+
+Bla
